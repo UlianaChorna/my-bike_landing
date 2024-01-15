@@ -1,4 +1,4 @@
-#MY BIKE landing page
+# MY BIKE landing page
 
 Used HTML, SCSS.
 
